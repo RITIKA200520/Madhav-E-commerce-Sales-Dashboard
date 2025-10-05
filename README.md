@@ -27,8 +27,7 @@ The main goal of this project is to:
 
 ## 📷 Dashboard Preview
 
-(screenshots/Ecommerce Sales Dashboard.png)
-
+<img width="1000" height="700" alt="01_home_overview" src="Ecommerce Sales Dashboard.png" />
 
 
 ## ✅ Conclusion
