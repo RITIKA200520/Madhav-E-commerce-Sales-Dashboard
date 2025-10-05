@@ -27,7 +27,7 @@ The main goal of this project is to:
 
 ## 📷 Dashboard Preview
 
-![Dashboard Overview](screenshots/Ecommerce Sales Dashboard.png)
+(screenshots/Ecommerce Sales Dashboard.png)
 
 
 
